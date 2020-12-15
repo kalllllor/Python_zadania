@@ -1,0 +1,1 @@
+zmienna = input("Podaj imie, nazwisko i rok urodzenia: ")

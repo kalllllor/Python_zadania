@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Books>
+	<Book id="1">
+		<Author>Platon</Author>
+		<Title>Protagoras</Title>
+		<Genre>filozofia</Genre>
+        <Price>20</Price>
+	</Book>
+	<Book id="2">
+		<Author>Edgar Allan Poe</Author>
+		<Title>Opowieści niesamowite</Title>
+		<Genre>Opowiadania</Genre>
+        <Price>30</Price>
+	</Book>
+    <Book id="3">
+		<Author>Stanisław Lem</Author>
+		<Title>Fiasko</Title>
+		<Genre>Sci-Fi</Genre>
+        <Price>40</Price>
+	</Book>
+</Books>
